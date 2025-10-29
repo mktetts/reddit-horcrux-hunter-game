@@ -1,0 +1,5 @@
+{
+  "name": "Emoji Venn Word Game",
+  "description": "A word-guessing game where one player hides a word, and another player uses combinations of emojis to have an AI guess the word. The interface features a stunning glassmorphic Venn diagram design with drag-and-drop interactions.",
+  "requestFramePermissions": []
+}
