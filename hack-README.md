@@ -1,5 +1,7 @@
 # ⚡ Horcrux Hunt - Reddit Devvit Game ⚡
 
+🎥 **[Watch Demo Video](https://youtu.be/dDiBU7yZmeA)**
+
 ## 1. Introduction
 
 **Horcrux Hunt** is an interactive puzzle game built on Reddit's Devvit platform, inspired by the dark magic of the Harry Potter universe. Players take on the role of wizards who must hide their soul fragments in magical symbols and seek out others' Horcruxes to destroy them.
@@ -102,7 +104,6 @@ Being new to game development, finding the right difficulty balance took time. T
 
 The trickiest part was building an algorithm that finds valid words from selected emojis and calculates the minimum emojis needed. Initial version took 2-3 seconds, but optimizing with hash maps brought it down to under 100ms. Sometimes "good enough" beats "perfect."
 
-
 ---
 
 ## 5. Future Plans
@@ -132,7 +133,6 @@ The trickiest part was building an algorithm that finds valid words from selecte
 - Weekly tournaments with prizes
 - Team-based collaborative puzzles
 - Cross-subreddit puzzle sharing
-
 
 ---
 
